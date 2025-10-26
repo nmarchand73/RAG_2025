@@ -1,0 +1,15 @@
+streamlit
+openai
+supabase
+PyPDF2
+pymupdf
+python-dotenv
+langchain
+langchain-openai
+langchain-text-splitters
+tiktoken
+sentence-transformers>=2.2.0
+
+# Optional: OCR support for scanned PDFs
+# Requires Tesseract OCR installed: https://github.com/tesseract-ocr/tesseract
+# ocrmypdf
